@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a personalized google new tab and start up page done with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/)
 
-## Getting Started
+## Run your Project
 
-First, run the development server:
+First download the file as a zip and then extract the folder and open it in your terminal and run the command:
+
+```bash
+npm i
+```
+to run this command in your pc you need to have installed the node js.
+after everything is done you need to run in your terminal the command:
 
 ```bash
 npm run dev
-# or
+## or 
 yarn dev
-# or
-pnpm dev
 ```
+And then open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+You can start setting up your links in `app/constants`. The page auto-updates as you edit the file.
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This page is just accesable in the Computer not other devices like (Phone, Tablet)
+and you need to deploy it to use it as a start up page or as a new tab.
+If you want to make it better with your ideas just fork this project and let me know the new updates
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
