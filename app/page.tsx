@@ -14,7 +14,7 @@ export default function Home() {
           <Profile />
           <Tasks />
         </div>
-        <div className="flex flex-col justify-center items-center w-full border border-[#5f5f5f]">
+        <div className="flex flex-col justify-center items-center w-full gap-8">
           <Search />
           <MostVisited />
         </div>

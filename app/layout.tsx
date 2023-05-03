@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Google Search",
+  title: "New Tab",
   description: "Created by Debug",
 };
 
