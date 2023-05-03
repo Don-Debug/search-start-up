@@ -1,26 +1,26 @@
 const tasks = [
   {
-    name: "Finish your dream",
+    name: "Write your daily tasks",
     date: "22/11/2023",
   },
   {
-    name: "Buy a new PC",
+    name: "Write your daily tasks",
     date: "22/03/2023",
   },
   {
-    name: "Set up a link Tree by Yourself create it",
+    name: "Write your daily tasks",
     date: "22/04/2023",
   },
   {
-    name: "Please leave a like",
+    name: "Write your daily tasks",
     date: "22/05/2023",
   },
   {
-    name: "Please Subscribe in YT",
+    name: "Write your daily tasks",
     date: "29/03/2023",
   },
   {
-    name: "Rate my work",
+    name: "Write your daily tasks",
     date: "12/03/2023",
   },
 ];

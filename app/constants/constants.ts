@@ -9,31 +9,31 @@ import yt from "@/public/Icons/yt.png";
 const socials = [
   {
     icon: instgram,
-    link: "https://instagram.com/elision__22?igshid=ZDdkNTZiNTM=",
+    link: "https://instagram.com",
   },
   {
     icon: discord,
-    link: "https://discord.gg/ZnrpwMrsHx",
+    link: "https://discord.com",
   },
   {
     icon: Github,
-    link: "https://github.com/Don-Debug",
+    link: "https://github.com",
   },
   {
     icon: linkedIn,
-    link: "https://www.linkedin.com/in/elisjon-qyrdedi-91a391272",
+    link: "https://www.linkedin.com",
   },
   {
     icon: TikTok,
-    link: "https://www.tiktok.com/@mr.debugg?_t=8bzKo7I2HbS&_r=1",
+    link: "https://www.tiktok.com",
   },
   {
     icon: twitter,
-    link: "https://twitter.com/d_debug?t=uagQVPiw_HRO_Zcq_AOxtw&s=09",
+    link: "https://twitter.com",
   },
   {
     icon: yt,
-    link: "https://www.youtube.com/channel/UCR1PSudRM0_TXi5BWGNnXZw",
+    link: "https://www.youtube.com",
   },
 ];
 
